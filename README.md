@@ -16,6 +16,7 @@
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 * [bacon.js](https://github.com/baconjs/bacon.js) - A small functional reactive programming lib for JavaScript.
 * [radioactive](https://github.com/radioactive/radioactive) - The Missing Native Functional Reactive API for Javascript
+* [cycle](https://github.com/staltz/cycle) - An honestly reactive framework for web user interfaces
 
 ## Books
 
