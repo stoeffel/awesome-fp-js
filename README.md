@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [radioactive](https://github.com/radioactive/radioactive) - The Missing Native Functional Reactive API for Javascript
 * [cycle](https://github.com/staltz/cycle) - An honestly reactive framework for web user interfaces
 * [most](https://github.com/cujojs/most) - Monadic streams for reactive programming
+* [Kefir](https://github.com/pozadi/kefir) - Inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 
 ## Books
 
