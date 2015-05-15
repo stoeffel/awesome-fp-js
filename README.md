@@ -28,8 +28,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### FP
 
-* [functional javascript](http://shop.oreilly.com/product/0636920028857.do) by @fogus
-* [javascript allonge](https://leanpub.com/javascript-allonge) by @raganwald
+* [functional javascript](http://shop.oreilly.com/product/0636920028857.do) by [@fogus](https://github.com/fogus)
+* [javascript allonge](https://leanpub.com/javascript-allonge) by [@raganwald](https://github.com/raganwald)
 
 ## Resources
 
