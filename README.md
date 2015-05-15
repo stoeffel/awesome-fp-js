@@ -29,6 +29,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### FP
 
+* [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of Javascript
+
 ### FRP
 
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
