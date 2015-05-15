@@ -26,6 +26,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Books
 
+### FP
+
+* [functional javascript](http://shop.oreilly.com/product/0636920028857.do) by @fogus
+* [javascript allonge](https://leanpub.com/javascript-allonge) by @raganwald
+
 ## Resources
 
 ### FP
