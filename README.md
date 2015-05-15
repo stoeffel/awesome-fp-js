@@ -40,9 +40,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of Javascript
 * [mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 
-### FRP
-
-* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 ## License
 
