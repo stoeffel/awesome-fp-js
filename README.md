@@ -11,6 +11,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [ramda](https://github.com/ramda/ramda) - A practical functional library for Javascript programmers. Favoring Curry
 * [101](https://github.com/tjmehta/101) - A modern JS utility library
 * [1-Liners](https://github.com/stoeffel/1-liners) - A utility library build from 1-liner functions
+* [bilby.js](https://github.com/puffnfresh/bilby.js) - Serious functional programming library for JavaScript
 * [underscore.string.fp](https://github.com/stoeffel/underscore.string.fp) - Wrapper for underscore.string with auto-curry
 * [chickencurry](https://github.com/stoeffel/chickencurry) - Curry your functions
 * [fn-curry](https://github.com/wilhelmson/fn-curry) - A simple function to curry a function
