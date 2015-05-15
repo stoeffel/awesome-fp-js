@@ -11,6 +11,7 @@
 * [101](https://github.com/tjmehta/101) - A modern JS utility library
 * [1-Liners](https://github.com/stoeffel/1-liners) - A utility library build from 1-liner functions
 * [underscore.string.fp](https://github.com/stoeffel/underscore.string.fp) - Wrapper for underscore.string with auto-curry
+* [chickencurry](https://github.com/stoeffel/chickencurry) - Curry your functions
 
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
