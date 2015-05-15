@@ -21,6 +21,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [bacon.js](https://github.com/baconjs/bacon.js) - A small functional reactive programming lib for JavaScript.
 * [radioactive](https://github.com/radioactive/radioactive) - The Missing Native Functional Reactive API for Javascript
 * [cycle](https://github.com/staltz/cycle) - An honestly reactive framework for web user interfaces
+* [most](https://github.com/cujojs/most) - Monadic streams for reactive programming
 
 ## Books
 
