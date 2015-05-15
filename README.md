@@ -38,6 +38,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### FP
 
 * [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of Javascript
+* [mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 
 ### FRP
 
