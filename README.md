@@ -2,6 +2,7 @@
 
 > A curated list of awesome functional (reactive) programming stuff in js
 
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Libraries
 
