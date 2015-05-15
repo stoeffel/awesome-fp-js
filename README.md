@@ -13,6 +13,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [1-Liners](https://github.com/stoeffel/1-liners) - A utility library build from 1-liner functions
 * [underscore.string.fp](https://github.com/stoeffel/underscore.string.fp) - Wrapper for underscore.string with auto-curry
 * [chickencurry](https://github.com/stoeffel/chickencurry) - Curry your functions
+* [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections
+* [mori](https://github.com/swannodette/mori) - A simple bridge to ClojureScript's persistent data structures
 
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
