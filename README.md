@@ -40,7 +40,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of Javascript
 * [mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
-* [noname-functional-frontend-framework](https://github.com/paldepind/noname-functional-frontend-framework) - A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
+* [noname-functional-frontend-framework (WIP)](https://github.com/paldepind/noname-functional-frontend-framework) - A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 
 ## License
 
