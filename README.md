@@ -18,6 +18,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections
 * [mori](https://github.com/swannodette/mori) - A simple bridge to ClojureScript's persistent data structures
 * [functionize](https://github.com/paldepind/functionize) - A collection of functions which aids in making non-functional libraries functional.
+* [fp-js](https://github.com/fp-js/) - A collection of functional javascript modules, writing in ES6.
+* [fp-dom](https://github.com/fp-dom/) - Making DOM functional ;)! 
 
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
