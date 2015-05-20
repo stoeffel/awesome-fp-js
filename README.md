@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [fn-curry](https://github.com/wilhelmson/fn-curry) - A simple function to curry a function
 * [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections
 * [mori](https://github.com/swannodette/mori) - A simple bridge to ClojureScript's persistent data structures
+* [functionize](https://github.com/paldepind/functionize) - A collection of functions which aids in making non-functional libraries functional.
 
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
