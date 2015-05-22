@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [fp-js](https://github.com/fp-js/) - A collection of functional javascript modules, writing in ES6.
 * [fp-dom](https://github.com/fp-dom/) - Making DOM functional ;)! 
 * [fnuc](https://github.com/algesten/fnuc) - a functional library for coffeescript (and javascript)
+* [trifl](https://github.com/algesten/trifl) - trifling functional views
 
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
