@@ -9,6 +9,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### FP
 * [lodash-fp](https://github.com/lodash/lodash-fp) - [lodash](https://github.com/lodash/lodash) with auto-curried iteratee-first methods.
 * [ramda](https://github.com/ramda/ramda) - A practical functional library for Javascript programmers. Favoring Curry
+* [Sanctuary](https://github.com/plaid/sanctuary) - Sanctuary makes it possible to write safe code without null checks.
 * [101](https://github.com/tjmehta/101) - A modern JS utility library
 * [1-Liners](https://github.com/stoeffel/1-liners) - A utility library build from 1-liner functions
 * [bilby.js](https://github.com/puffnfresh/bilby.js) - Serious functional programming library for JavaScript
