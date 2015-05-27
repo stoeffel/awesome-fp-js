@@ -48,6 +48,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * [noname-functional-frontend-framework (WIP)](https://github.com/paldepind/noname-functional-frontend-framework) - A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 
+
+## Contribution
+
+:star: Suggestions and PRs are welcome! :star:
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
