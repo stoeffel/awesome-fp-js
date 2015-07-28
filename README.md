@@ -20,7 +20,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [mori](https://github.com/swannodette/mori) - A simple bridge to ClojureScript's persistent data structures
 * [functionize](https://github.com/paldepind/functionize) - A collection of functions which aids in making non-functional libraries functional.
 * [fp-js](https://github.com/fp-js/) - A collection of functional javascript modules, writing in ES6.
-* [fp-dom](https://github.com/fp-dom/) - Making DOM functional ;)! 
+* [fp-dom](https://github.com/fp-dom/) - Making DOM functional ;)!
 * [fnuc](https://github.com/algesten/fnuc) - a functional library for coffeescript (and javascript)
 * [trifl](https://github.com/algesten/trifl) - trifling functional views
 * [funcy](https://github.com/bramstein/funcy) - An experiment in adding functional pattern matching to JavaScript
@@ -52,6 +52,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### FP & FRP
 
 * [learnrx](https://github.com/jhusain/learnrx) - Functional Programming in Javascript
+* [implementing snake in bacon.js](http://philipnilsson.github.io/badness/) - Practical introduction to FRP
 
 ## Contribution
 
