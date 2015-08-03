@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
 * [bacon.js](https://github.com/baconjs/bacon.js) - A small functional reactive programming lib for JavaScript.
+* [Highland](http://highlandjs.org/) - The high-level streams library for Node.js and the browser.
 * [radioactive](https://github.com/radioactive/radioactive) - The Missing Native Functional Reactive API for Javascript
 * [cycle](https://github.com/staltz/cycle) - An honestly reactive framework for web user interfaces
 * [most](https://github.com/cujojs/most) - Monadic streams for reactive programming
