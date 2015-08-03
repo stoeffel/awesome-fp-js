@@ -33,7 +33,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [most](https://github.com/cujojs/most) - Monadic streams for reactive programming
 * [Kefir](https://github.com/pozadi/kefir) - Inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [flyd](https://github.com/paldepind/flyd) - The minimalistic but powerful, modular, functional reactive programming library in JavaScript
-* [reflex](https://github.com/ryantrinkle/reflex) - Reflex is an fully-deterministic, higher-order FRP interface and an engine that efficiently implements that interface.
 
 ## Books
 
