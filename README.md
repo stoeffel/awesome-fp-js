@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [fnuc](https://github.com/algesten/fnuc) - a functional library for coffeescript (and javascript)
 * [trifl](https://github.com/algesten/trifl) - trifling functional views
 * [funcy](https://github.com/bramstein/funcy) - An experiment in adding functional pattern matching to JavaScript
+* [functionaljs](http://functionaljs.com) - A functional js library that facilitates currying and point-free / tacit programming
 
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
