@@ -25,6 +25,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [trifl](https://github.com/algesten/trifl) - trifling functional views
 * [funcy](https://github.com/bramstein/funcy) - An experiment in adding functional pattern matching to JavaScript
 * [functionaljs](http://functionaljs.com) - A functional js library that facilitates currying and point-free / tacit programming
+* [\_part\_](https://github.com/AutoSponge/_part_) - Makes native methods available as partially applied functions.
 
 ### FRP
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
