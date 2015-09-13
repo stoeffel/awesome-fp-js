@@ -13,7 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [1-Liners](https://github.com/stoeffel/1-liners) - A utility library build from 1-liner functions
 * [bilby.js](https://github.com/puffnfresh/bilby.js) - Serious functional programming library for JavaScript
 * [underscore.string.fp](https://github.com/stoeffel/underscore.string.fp) - Wrapper for underscore.string with auto-curry
-* [chickencurry](https://github.com/stoeffel/chickencurry) - Curry your functions
+* [curry-this](https://github.com/stoeffel/curry-this) - Curry your functions using function bind syntax.
 * [fn-curry](https://github.com/wilhelmson/fn-curry) - A simple function to curry a function
 * [immutable](https://github.com/facebook/immutable-js) - Immutable persistent data collections
 * [mori](https://github.com/swannodette/mori) - A simple bridge to ClojureScript's persistent data structures
