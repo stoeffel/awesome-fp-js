@@ -38,6 +38,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture) - A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 * [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming.
 
+
+## Related Lists
+
+* [awesome-frp-js](https://github.com/stoeffel/awesome-frp-js)
+
+
 ## Contribution
 
 :star: Suggestions and PRs are welcome! :star:
