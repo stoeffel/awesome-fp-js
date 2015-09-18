@@ -42,7 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Related Lists
 
-* [awesome-frp-js](https://github.com/stoeffel/awesome-frp-js)
+* [Awesome FRP JS](https://github.com/stoeffel/awesome-frp-js)
 
 
 ## Contribution
