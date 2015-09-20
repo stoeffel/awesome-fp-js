@@ -37,7 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * [functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture) - A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 * [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming.
-* [Functional Programming Jargons](https://github.com/hemanth/functional-programming-jargons) - Jargons from the functional programming world explained in javascript.
+* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world explained in javascript.
 
 
 ## Related Lists
