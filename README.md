@@ -26,6 +26,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [functionaljs](http://functionaljs.com) - A functional js library that facilitates currying and point-free / tacit programming
 * [\_part\_](https://github.com/AutoSponge/_part_) - Makes native methods available as partially applied functions.
 * [compose-function](https://github.com/stoeffel/compose-function) - Compose new functions.
+* [lambdajs](https://github.com/loop-recur/lambdajs) - The full ECMAScript API done a functional way.
 
 ## Books
 
