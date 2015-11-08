@@ -41,6 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [cube-composer](https://github.com/sharkdp/cube-composer) - A puzzle game inspired by functional programming.
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world explained in javascript.
 * [FPJS-Class](https://github.com/loop-recur/FPJS-Class) - Functional Programming learned through JS
+* [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) - An Intro to Functional Programming Concepts in JavaScript
 
 
 ## Related Lists
