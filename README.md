@@ -37,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 * [Classroom Coding Pt1](https://www.youtube.com/watch?v=h_tkIpwbsxY) - Classroom Coding with Prof. Frisby Pt1
 * [Classroom Coding Pt2](https://www.youtube.com/watch?v=oZ6C9h49bu8) - Classroom Coding with Prof. Frisby Pt2
+* [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) - Underscore.js claims to be a functional programming language, but how true is that?
 * [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of Javascript
 * [mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide) - Mostly adequate guide to FP (in javascript)
 * [functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture) - A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
