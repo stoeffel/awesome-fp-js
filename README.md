@@ -31,6 +31,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [date-fp](http://github.com/cullophid/date-fp) - FP date manipulation library
 * [barely-functional](https://github.com/cullophid/barely-functional) - tiny (2.7kb) functional programming library using native es5/6 operations
 
+### Lenses
+* [lenses](https://github.com/DrBoolean/lenses) - Composable kmett style lenses
+* [optics](https://github.com/flunc/optics) - profunctor optics (Lens, Prism, iso)
+* [ramda-lens](https://github.com/ramda/ramda-lens) - :ram: :mag_right: Lens library built on ramda
+* [fantasy-lenses](https://github.com/fantasyland/fantasy-lenses) - Composable, immutable getters and setters. (profunctor lenses WIP)
+* [nanoscope](https://github.com/5outh/nanoscope) - Lenses with dotty support
+* 
+
 ## Books
 
 * [functional javascript](http://shop.oreilly.com/product/0636920028857.do) by [@fogus](https://github.com/fogus)
