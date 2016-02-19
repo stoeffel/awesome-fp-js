@@ -37,7 +37,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [ramda-lens](https://github.com/ramda/ramda-lens) - :ram: :mag_right: Lens library built on ramda
 * [fantasy-lenses](https://github.com/fantasyland/fantasy-lenses) - Composable, immutable getters and setters. (profunctor lenses WIP)
 * [nanoscope](https://github.com/5outh/nanoscope) - Lenses with dotty support
-* 
 
 ## Books
 
