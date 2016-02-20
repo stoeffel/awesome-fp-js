@@ -43,6 +43,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [functional javascript](http://shop.oreilly.com/product/0636920028857.do) by [@fogus](https://github.com/fogus)
 * [javascript allonge](https://leanpub.com/javascript-allonge) by [@raganwald](https://github.com/raganwald)
 
+## Functional Languages that Compile to JavaScript
++ [ClojureScript](https://github.com/clojure/clojurescript) - compiles Clojure, a hosted LISP with immutable data structures, to JavaScript
++ [Elm](http://elm-lang.org/) - type-safe functional programming language for declaratively creating web browser-based graphical user interfaces, implemented in Haskell
++ [Purescript](http://www.purescript.org/) - a small strongly typed programming language that compiles to JavaScript
++ [ElixirScript](https://github.com/bryanjos/elixirscript)
+
 ## Resources
 
 * [Classroom Coding Pt1](https://www.youtube.com/watch?v=h_tkIpwbsxY) - Classroom Coding with Prof. Frisby Pt1
@@ -56,7 +62,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - Jargon from the functional programming world explained in javascript.
 * [FPJS-Class](https://github.com/loop-recur/FPJS-Class) - Functional Programming learned through JS
 * [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) - An Intro to Functional Programming Concepts in JavaScript
-
 
 ## Related Lists
 
