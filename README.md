@@ -30,6 +30,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [lambdajs](https://github.com/loop-recur/lambdajs) - The full ECMAScript API done a functional way.
 * [date-fp](http://github.com/cullophid/date-fp) - FP date manipulation library
 * [barely-functional](https://github.com/cullophid/barely-functional) - tiny (2.7kb) functional programming library using native es5/6 operations
+* [daggy](https://github.com/puffnfresh/daggy) - Library for creating tagged constructors.
 
 ### Lenses
 * [lenses](https://github.com/DrBoolean/lenses) - Composable kmett style lenses
