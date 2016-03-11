@@ -31,6 +31,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [date-fp](http://github.com/cullophid/date-fp) - FP date manipulation library
 * [barely-functional](https://github.com/cullophid/barely-functional) - tiny (2.7kb) functional programming library using native es5/6 operations
 * [daggy](https://github.com/puffnfresh/daggy) - Library for creating tagged constructors.
+* [monet.js](http://cwmyers.github.io/monet.js/) - A library that assists functional programming by providing a rich set of Monads and other useful functions.
 
 ### Lenses
 * [lenses](https://github.com/DrBoolean/lenses) - Composable kmett style lenses
