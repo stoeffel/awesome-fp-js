@@ -6,28 +6,27 @@ Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Libraries
 
-* [Ramda](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers. Favoring Curry
-* [Folktale](http://folktalejs.org/) - Folktale is a suite of libraries for generic functional programming.
-* [Lodash-FP](https://github.com/lodash/lodash-fp) - [Lodash](https://github.com/lodash/lodash) with auto-curried iteratee-first methods.
-* [101](https://github.com/tjmehta/101) - A modern JS utility library
-* [1-Liners](https://github.com/stoeffel/1-liners) - A utility library build from 1-liner functions
-* [bilby.js](https://github.com/puffnfresh/bilby.js) - Serious functional programming library for JavaScript
-* [curry](https://github.com/thisables/curry) - Curry your functions using function bind syntax.
-* [fn-curry](https://github.com/wilhelmson/fn-curry) - A simple function to curry a function
-* [functionize](https://github.com/paldepind/functionize) - A collection of functions which aids in making non-functional libraries functional.
-* [fp-dom](https://github.com/fp-dom/) - Making DOM functional ;)!
-* [fnuc](https://github.com/algesten/fnuc) - a functional library for CoffeeScript (and JavaScript)
-* [trifl](https://github.com/algesten/trifl) - trifling functional views
-* [funcy](https://github.com/bramstein/funcy) - An experiment in adding functional pattern matching to JavaScript
-* [functionaljs](http://functionaljs.com) - A functional js library that facilitates currying and point-free / tacit programming
-* [\_part\_](https://github.com/AutoSponge/_part_) - Makes native methods available as partially applied functions.
-* [compose-function](https://github.com/stoeffel/compose-function) - Compose new functions.
-* [lambdajs](https://github.com/loop-recur/lambdajs) - The full ECMAScript API done a functional way.
-* [date-fp](http://github.com/cullophid/date-fp) - FP date manipulation library
-* [barely-functional](https://github.com/cullophid/barely-functional) - tiny (2.7kb) functional programming library using native es5/6 operations
-* [allong.es](http://allong.es/) - A collection of functions designed to facilitate writing JavaScript with functions as first-class values. The emphasis in allong.es is on composing and decomposing functions using combinators and decorators. It is designed to complement libraries like Underscore, not compete with them.
+* [Ramda](https://github.com/ramda/ramda) - A practical functional library for JavaScript that is designed specifically for a functional programming style, one that makes it easy to create functional pipelines, one that never mutates user data.
+* [Folktale](http://folktalejs.org/) - Folktale is a suite of libraries for generic functional programming that allows you to write elegant modular applications with fewer bugs, and more reuse.
+* [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) - An instance of [Lodash](https://github.com/lodash/lodash) with its methods wrapped to produce immutable auto-curried iteratee-first data-last methods.
+* [functional.js](http://functionaljs.com) - A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+* [101](https://github.com/tjmehta/101) - A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
+* [fnuc](https://github.com/algesten/fnuc) - A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
+* [barely-functional](https://github.com/cullophid/barely-functional) - A tiny (2.7kb) functional programming library using native ES5/6 operations.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) - A functionally oriented utility library somewhat based off of Haskell's Prelude module.
+* [allong.es](http://allong.es/) - A collection of functions to facilitate writing JavaScript with functions as first-class values, designed to complement libraries like Underscore, not compete with them.
+* [1-liners](https://github.com/1-liners/1-liners) - Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
+* [fn-curry](https://github.com/wilhelmson/fn-curry) - A simple function to curry a function.
+* [curry](https://github.com/thisables/curry) - Curry your functions using function bind syntax.
+* [compose-function](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions.
+* [functionize](https://github.com/paldepind/functionize) - A collection of functions which aid in making non-functional libraries functional.
+* [lambdajs](https://github.com/loop-recur/lambdajs) - The full ECMAScript API done a functional way.
+* [fp-dom](https://github.com/fp-dom/) - Making the DOM functional.
+* [trifl](https://github.com/algesten/trifl) - A functional user interface library with unidirectional dataflow and a virtual dom.
+* [funcy](https://github.com/bramstein/funcy) - An experiment in adding functional pattern matching to JavaScript. _Experimental_  :triangular_flag_on_post:
+* [date-fp](http://github.com/cullophid/date-fp) - A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
+* [\_part\_](https://github.com/AutoSponge/_part_) - A micro library that encourages functional programming by making native methods available as partially applied functions.
 * [fantasy-combinators](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
@@ -35,11 +34,11 @@ Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Write performant functional code by using data structures that are suited for this task.
 
-* [Immutable.js](https://github.com/facebook/immutable-js) - Immutable persistent data collections
-* [Mori](https://github.com/swannodette/mori) - A simple bridge to ClojureScript's persistent data structures
-* https://github.com/qiao/immutable-sequence.js (uses https://github.com/qiao/fingertree.js/)
-* http://guigrpa.github.io/timm/
-* [lazy.js](https://github.com/dtao/lazy.js)
+* [Immutable.js](https://github.com/facebook/immutable-js) - Immutable persistent data collections.
+* [Mori](https://github.com/swannodette/mori) - ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
+* [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees](https://github.com/qiao/fingertree.js).
+* [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
+* [Lazy.js](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 
 ### Algebraic Data Types
 
@@ -62,10 +61,10 @@ Types formed by composing other types.
 
 ## Books
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by [Michael Fogus](https://github.com/fogus) (2013)
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix), the “Six” edition by [Reg  Braithwaite](https://github.com/raganwald) (2016)
 * [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) by Luis Atencio (2016)
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke (2014)
+* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by [Michael Fogus](https://github.com/fogus) (2013)
 
 ## Functional Languages that Compile to JavaScript
 
