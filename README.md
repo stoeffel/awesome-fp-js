@@ -9,15 +9,12 @@ Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Ramda](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers. Favoring Curry
 * [Folktale](http://folktalejs.org/) - Folktale is a suite of libraries for generic functional programming.
 * [Lodash-FP](https://github.com/lodash/lodash-fp) - [Lodash](https://github.com/lodash/lodash) with auto-curried iteratee-first methods.
-* [Sanctuary](https://github.com/plaid/sanctuary) - Sanctuary makes it possible to write safe code without null checks.
 * [101](https://github.com/tjmehta/101) - A modern JS utility library
 * [1-Liners](https://github.com/stoeffel/1-liners) - A utility library build from 1-liner functions
 * [bilby.js](https://github.com/puffnfresh/bilby.js) - Serious functional programming library for JavaScript
-* [underscore.string.fp](https://github.com/stoeffel/underscore.string.fp) - Wrapper for underscore.string with auto-curry
-* [curry-this](https://github.com/stoeffel/curry-this) - Curry your functions using function bind syntax.
+* [curry](https://github.com/thisables/curry) - Curry your functions using function bind syntax.
 * [fn-curry](https://github.com/wilhelmson/fn-curry) - A simple function to curry a function
 * [functionize](https://github.com/paldepind/functionize) - A collection of functions which aids in making non-functional libraries functional.
-* [fp-js](https://github.com/fp-js/) - A collection of functional JavaScript modules, writing in ES6.
 * [fp-dom](https://github.com/fp-dom/) - Making DOM functional ;)!
 * [fnuc](https://github.com/algesten/fnuc) - a functional library for CoffeeScript (and JavaScript)
 * [trifl](https://github.com/algesten/trifl) - trifling functional views
@@ -47,6 +44,8 @@ Types formed by composing other types.
 
 * [FantasyLand](https://github.com/fantasyland/fantasy-land) - :rainbow: Not a library but a specification of the Monad laws for libraries to follow.
 * [daggy](https://github.com/puffnfresh/daggy) - Library for creating tagged constructors.
+* [Sanctuary](https://github.com/plaid/sanctuary) - Sanctuary makes it possible to write safe code without null checks.
+* [ramda-fantasy](https://github.com/ramda/ramda-fantasy) – Fantasy-Land compatible types for easy integration with Ramda.js.
 * [monet.js](http://cwmyers.github.io/monet.js/) - A library that assists functional programming by providing a rich set of Monads and other useful functions.
 
 ### Lenses
