@@ -95,6 +95,7 @@ Types formed by composing other types.
 * [Why Ramda](http://fr.umio.us/why-ramda/)
 * [Favoring Curry](http://fr.umio.us/favoring-curry/)
 * [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
+* [FP Youtube Search](https://github.com/jaysoo/example-fp-youtube-search) - YouTube search app with ReactJS, Redux, and FP concepts
 
 ## Related Lists
 
