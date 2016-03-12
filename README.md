@@ -27,6 +27,9 @@ Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 * [barely-functional](https://github.com/cullophid/barely-functional) - tiny (2.7kb) functional programming library using native es5/6 operations
 * [allong.es](http://allong.es/) - A collection of functions designed to facilitate writing JavaScript with functions as first-class values. The emphasis in allong.es is on composing and decomposing functions using combinators and decorators. It is designed to complement libraries like Underscore, not compete with them.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) - A functionally oriented utility library somewhat based off of Haskell's Prelude module.
+* [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
+* [fantasy-combinators](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
+* [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
 ### Data Structures
 
@@ -47,6 +50,8 @@ Types formed by composing other types.
 * [Sanctuary](https://github.com/plaid/sanctuary) - Sanctuary makes it possible to write safe code without null checks.
 * [ramda-fantasy](https://github.com/ramda/ramda-fantasy) – Fantasy-Land compatible types for easy integration with Ramda.js.
 * [monet.js](http://cwmyers.github.io/monet.js/) - A library that assists functional programming by providing a rich set of Monads and other useful functions.
+* [union-type](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
+* [freeky](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 
 ### Lenses
 * [lenses](https://github.com/DrBoolean/lenses) - Composable kmett style lenses
@@ -57,9 +62,10 @@ Types formed by composing other types.
 
 ## Books
 
-* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by [@fogus](https://github.com/fogus)
-* [JavaScript Allongé](https://leanpub.com/javascript-allonge) by [@raganwald](https://github.com/raganwald)
-* [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke
+* [Functional JavaScript](http://shop.oreilly.com/product/0636920028857.do) by [Michael Fogus](https://github.com/fogus) (2013)
+* [JavaScript Allongé](https://leanpub.com/javascriptallongesix), the “Six” edition by [Reg  Braithwaite](https://github.com/raganwald) (2016)
+* [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) by Luis Atencio (2016)
+* [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke (2014)
 
 ## Functional Languages that Compile to JavaScript
 
@@ -79,6 +85,9 @@ Types formed by composing other types.
 * [Classroom Coding Pt2](https://www.youtube.com/watch?v=oZ6C9h49bu8) - Classroom Coding with Prof. Frisby Pt2
 * [Classroom Coding Pt3](https://www.youtube.com/watch?v=mMCgJA8HScA) - Classroom Coding with Prof. Frisby Pt3
 * [Hey Underscore, You're Doing It Wrong!](https://www.youtube.com/watch?v=m3svKOdZijA) - Underscore.js claims to be a functional programming language, but how true is that?
+* [Functional programming patterns for the non-mathematician](https://www.youtube.com/watch?v=AvgwKjTPMmM)
+* [Pure JavaScript](https://vimeo.com/49384334)
+* [Pure, functional JavaScript](https://vimeo.com/43382919)
 * [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) - Teaching fundamental functional programming features of JavaScript
 * [mostly-adequate-guide](https://github.com/DrBoolean/mostly-adequate-guide) - Mostly adequate guide to FP (in JavaScript)
 * [functional-frontend-architecture](https://github.com/paldepind/functional-frontend-architecture) - A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
@@ -95,13 +104,33 @@ Types formed by composing other types.
 * [Why Ramda](http://fr.umio.us/why-ramda/)
 * [Favoring Curry](http://fr.umio.us/favoring-curry/)
 * [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
+* [A Monad in Practicality: Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 * [FP Youtube Search](https://github.com/jaysoo/example-fp-youtube-search) - YouTube search app with ReactJS, Redux, and FP concepts
+* [A gentle introduction to functional JavaScript](jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/) – A four-part series introduction functional programming in JavaScript.
+* [Functional programming](https://glebbahmutov.com/blog/tags/functional/) – Many articles on various aspects of functional programming in JavaScript by Gleb Bahmutov.
 
 ## Related Lists
 
 * [Awesome FRP JS](https://github.com/stoeffel/awesome-frp-js) - A curated list of awesome (functional) reactive programming stuff in JavaScript.
 * [Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming) - Awesome resources on functional programming theory and learning materials.
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
+
+## People
+
+* [Becky Conning](https://twitter.com/BeckyConning)
+* [Bodil Stokke](https://twitter.com/bodil)
+* [Buzz de Cafe](https://twitter.com/buzzdecafe)
+* [Brian Lonsdorf](https://twitter.com/drboolean)
+* [Brian McKenna](https://twitter.com/puffnfresh)
+* [Elise Huard](https://twitter.com/elise_huard)
+* [Gleb Bahmutov](https://twitter.com/bahmutov)
+* [John A. De Goes](https://twitter.com/jdegoes)
+* [Joseph Abrahamson](https://twitter.com/sdbo)
+* [Katie Ots](http://www.codemiller.com/)
+* [Quildreen Motta](https://twitter.com/robotlolita)
+* [Reginald Braithwaite](https://twitter.com/raganwald)
+* [Scott Sauyet](https://twitter.com/scott_sauyet)
+* [Simon Richardson](https://twitter.com/simonrichardson)
 
 ## Contribution
 
