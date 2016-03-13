@@ -7,6 +7,9 @@ Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Table of Contents
 
 * [Libraries](#libraries)
+  * [Data Structures](#data-structures)
+  * [Algebraic Data Types](#algebraic-data-types)
+  * [Lenses](#lenses)
 * [Functional Languages that Compile to JavaScript](#functional-languages-that-compile-to-javascript)
 * [Resources](#resources)
   * [Books](#books)
