@@ -64,6 +64,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.
 * [union-type](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
 * [freeky](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+* [Fluture](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
 * [fantasy-combinators](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
