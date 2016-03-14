@@ -136,7 +136,8 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ### Related Lists
 
 * [Awesome FRP JS](https://github.com/stoeffel/awesome-frp-js) – A curated list of awesome (functional) reactive programming stuff in JavaScript.
-* [Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
+* [lucasviola/Awesome Functional Programming](https://github.com/lucasviola/awesome-functional-programming) – Awesome resources on functional programming theory and learning materials.
+* [xgrommx/Awesome Functional Programming](https://github.com/xgrommx/awesome-functional-programming) – A ton of articles on functional programming, as well as a huge list of functional libraries for many programming languages.
 * [Functional Programming Resources In JavaScript](https://github.com/busypeoples/functional-programming-javascript)
 
 ### Talk
