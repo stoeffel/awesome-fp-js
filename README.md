@@ -152,6 +152,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Buzz de Cafe](https://twitter.com/buzzdecafe)
 * [Brian Lonsdorf](https://twitter.com/drboolean)
 * [Brian McKenna](https://twitter.com/puffnfresh)
+* [David Chambers](https://twitter.com/davidchambers)
 * [Elise Huard](https://twitter.com/elise_huard)
 * [Gleb Bahmutov](https://twitter.com/bahmutov)
 * [John A. De Goes](https://twitter.com/jdegoes)
@@ -159,6 +160,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Katie Ots](http://www.codemiller.com/)
 * [Quildreen Motta](https://twitter.com/robotlolita)
 * [Reginald Braithwaite](https://twitter.com/raganwald)
+* [Scott Christopher](https://twitter.com/_schristo)
 * [Scott Sauyet](https://twitter.com/scott_sauyet)
 * [Simon Richardson](https://twitter.com/simonrichardson)
 
