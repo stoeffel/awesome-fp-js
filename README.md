@@ -2,7 +2,6 @@
 
 > A curated list of awesome functional programming in JavaScript
 
-Inspired by the [Awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
