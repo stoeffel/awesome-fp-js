@@ -167,6 +167,8 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 :star: Suggestions and PRs are welcome! :star:
 
+Please read the [contribution guidelines](./contributing.md) to get started.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
