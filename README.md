@@ -30,7 +30,7 @@
 * [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.
 * [allong.es](http://allong.es/) – A collection of functions to facilitate writing JavaScript with functions as first-class values, designed to complement libraries like Underscore, not compete with them.
 * [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
-* [fn-curry](https://github.com/wilhelmson/fn-curry) – A simple function to curry a function.
+* [fn-curry](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 * [curry](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
 * [compose-function](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
 * [functionize](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
@@ -38,7 +38,7 @@
 * [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 * [trifl](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
 * [funcy](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. _Experimental_  :triangular_flag_on_post:
-* [date-fp](http://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
+* [date-fp](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 * [\_part\_](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 
@@ -93,7 +93,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Books
 
-* [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/DrBoolean/mostly-adequate-guide) – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
+* [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://github.com/MostlyAdequate/mostly-adequate-guide) – This is a book on the functional paradigm in general using the world’s most popular functional programming language: JavaScript. By [Brian Lonsdorf](https://twitter.com/drboolean) (2016)
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix), the “Six” edition by [Reginald  Braithwaite](https://github.com/raganwald) (2016)
 * [Functional Programming in JavaScript](https://www.manning.com/books/functional-programming-in-javascript) by Luis Atencio (2016)
 * [Eloquent JavaScript](http://eloquentjavascript.net/) by Marijn Haverbeke (2014)
