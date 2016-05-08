@@ -101,10 +101,10 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Articles
 
-* [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) – An Intro to Functional Programming Concepts in JavaScript
-* [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
-* [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/)
-* [Favoring Curry](http://fr.umio.us/favoring-curry/)
+* [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) – An Intro to Functional Programming Concepts in JavaScript.
+* [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html) – An other intro to Functional Programming in JavaScript.
+* [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/) – What are the advantages of currying.
+* [Favoring Curry](http://fr.umio.us/favoring-curry/) - Favoring currying in ramda.
 * [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
 * [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
 * [Why Ramda](http://fr.umio.us/why-ramda/) – Introduction to the principles of ramda.
