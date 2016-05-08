@@ -144,24 +144,6 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [Functional Programming Slack channel](https://functionalprogramming.slack.com/) – Community with a friendly channel for JavaScript as well as many other channels about functional programming in general.
 
-### People
-
-* [Becky Conning](https://twitter.com/BeckyConning)
-* [Bodil Stokke](https://twitter.com/bodil)
-* [Buzz de Cafe](https://twitter.com/buzzdecafe)
-* [Brian Lonsdorf](https://twitter.com/drboolean)
-* [Brian McKenna](https://twitter.com/puffnfresh)
-* [David Chambers](https://twitter.com/davidchambers)
-* [Elise Huard](https://twitter.com/elise_huard)
-* [Gleb Bahmutov](https://twitter.com/bahmutov)
-* [John A. De Goes](https://twitter.com/jdegoes)
-* [Joseph Abrahamson](https://twitter.com/sdbo)
-* [Katie Ots](http://www.codemiller.com/)
-* [Quildreen Motta](https://twitter.com/robotlolita)
-* [Reginald Braithwaite](https://twitter.com/raganwald)
-* [Scott Christopher](https://twitter.com/_schristo)
-* [Scott Sauyet](https://twitter.com/scott_sauyet)
-* [Simon Richardson](https://twitter.com/simonrichardson)
 
 ## Contribution
 
