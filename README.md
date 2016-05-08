@@ -101,14 +101,13 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Articles
 
-* [The Two Pillars of JavaScript Pt 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 * [FP Concepts in JavaScript](https://medium.com/@collardeau/intro-to-functional-programming-concepts-in-javascript-b0650773139c) – An Intro to Functional Programming Concepts in JavaScript
 * [Functional programming with JavaScript](http://stephen-young.me.uk/2013/01/20/functional-programming-with-javascript.html)
 * [Why Curry Helps](https://hughfdjackson.com/javascript/why-curry-helps/)
 * [Favoring Curry](http://fr.umio.us/favoring-curry/)
 * [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
 * [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript)
-* [Why Ramda](http://fr.umio.us/why-ramda/) – Introduction to the principles of ramda. 
+* [Why Ramda](http://fr.umio.us/why-ramda/) – Introduction to the principles of ramda.
 * [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html) – Introduction to Either.
 * [A Monad in Practicality: Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html) – Introduction to Futures.
 * [A gentle introduction to functional JavaScript](jrsinclair.com/articles/2016/gentle-introduction-to-functional-javascript-intro/) – A four-part series introduction functional programming in JavaScript.
