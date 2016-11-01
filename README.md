@@ -97,6 +97,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Reason](http://facebook.github.io/reason/) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
+* [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 
 ## Resources
 
