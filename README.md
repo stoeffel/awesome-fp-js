@@ -11,6 +11,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
   * [Algebraic Data Types](#algebraic-data-types)
   * [Lenses](#lenses)
 * [Functional Languages that Compile to JavaScript](#functional-languages-that-compile-to-javascript)
+* [Programming Tools](#programming-tools)
 * [Resources](#resources)
   * [Books](#books)
   * [Articles](#articles)
@@ -102,6 +103,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 ## Programming Tools
 
 * [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
+* [eslint-config-cleanjs](https://github.com/bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language
 
 ## Resources
 
