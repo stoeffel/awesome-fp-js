@@ -84,7 +84,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [ramda-lens](https://github.com/ramda/ramda-lens) – :ram: :mag_right: Lens library built on Ramda.
 * [fantasy-lenses](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
 * [nanoscope](https://github.com/5outh/nanoscope) – Lenses with dotty support.
-* [partial.lenses](https://github.com/calmm-js/partial.lenses) – Ramda compatible partial lenses. View, insert and update optional data.
+* [partial.lenses](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
 
 ## Functional Languages that Compile to JavaScript
 
