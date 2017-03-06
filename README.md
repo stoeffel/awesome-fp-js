@@ -54,11 +54,13 @@ Write performant functional code by using the right data structures for the task
 * [Icepick](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
 * [Immutable.js](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
 * [Mori](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
+* [Baobab](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
 * [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees](https://github.com/qiao/fingertree.js).
 * [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
 * [Lazy.js](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [DerivableJS](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
+
 
 ### Algebraic Data Types
 
