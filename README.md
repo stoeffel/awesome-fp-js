@@ -46,6 +46,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [js-joda](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
 * [\_part\_](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
+* [tinyfun](https://github.com/dvemac/tinyfun) - A tiny functional library utilizing ES6 and native methods
 
 ### Data Structures
 
