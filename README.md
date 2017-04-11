@@ -74,7 +74,6 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [immutable-ext](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js](https://github.com/facebook/immutable-js).
 * [daggy](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
 * [Sanctuary](https://github.com/plaid/sanctuary) – Sanctuary makes it possible to write safe code without null checks.
-* [ramda-fantasy](https://github.com/ramda/ramda-fantasy) – Fantasy-Land compatible types for easy integration with Ramda.js.
 * [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.
 * [union-type](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
 * [freeky](https://github.com/DrBoolean/freeky) – A collection of Free monads.
