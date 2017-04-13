@@ -32,7 +32,6 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
-* [allong.es](http://allong.es/) – A collection of functions to facilitate writing JavaScript with functions as first-class values, designed to complement libraries like Underscore, not compete with them.
 * [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
 * [fn-curry](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 * [curry](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
