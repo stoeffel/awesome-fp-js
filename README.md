@@ -46,6 +46,9 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [\_part\_](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 * [FPO.js](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
+* [Bit-utils](https://bitsrc.io/bit/utils#array) - A collection of general purpose utility functions delivering modularity and performance, which can be imported with [Bit](https://github.com/teambit/bit) without having to pull an entire library.
+
+
 
 
 
