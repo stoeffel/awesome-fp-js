@@ -79,6 +79,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Fluture](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
 * [fantasy-combinators](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
+* [crocks](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running.
 
 ### Lenses
 
