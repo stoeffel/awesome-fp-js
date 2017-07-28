@@ -49,7 +49,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
 * [fun-task](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 * [most](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
-
+* [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 
 ### Data Structures
 
@@ -107,6 +107,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
 * [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
+* [ion](https://github.com/ion-lang/ion) - no BS JS
 
 ## Programming Tools
 
