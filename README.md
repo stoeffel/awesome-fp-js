@@ -50,6 +50,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [fun-task](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 * [most](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
+* [funfix](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
 
 ### Data Structures
 
