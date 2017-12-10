@@ -51,6 +51,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [most](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 * [funfix](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
+* [pico-lambda](https://github.com/trainyard/pico-lambda) - Arrays, Strings and things the functional way. A 640b functional library based on native methods.
 
 ### Data Structures
 
