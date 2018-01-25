@@ -23,7 +23,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 ## Libraries
 
 * [Ramda](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
-* [ramda-adjunct](https://github.com/char0n) - A Ramda extenstion, adjunct is a thing added to something else as a supplementary rather than an essential part. And that something is being ramda.
+* [ramda-adjunct](https://github.com/char0n/ramda-adjunct) - A Ramda extenstion, adjunct is a thing added to something else as a supplementary rather than an essential part. And that something is being ramda.
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
 * [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
