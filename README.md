@@ -68,7 +68,7 @@ Write performant functional code by using the right data structures for the task
 * [DerivableJS](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications.
-
+* [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API.
 
 ### Algebraic Data Types
 
