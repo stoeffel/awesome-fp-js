@@ -114,6 +114,10 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [ion](https://github.com/ion-lang/ion) - no BS JS
 * [RamdaScript](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
 
+## Monkey Patches
+
+* [km-transform](https://github.com/kylemeenehan/km-transform) - A monkey patch that extends the Object prototype to allow for chained lambda functions.
+
 ## Programming Tools
 
 * [eslint-plugin-fp](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
