@@ -71,6 +71,7 @@ Write performant functional code by using the right data structures for the task
 * [imlazy](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications.
 * [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API.
+* [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.
 
 ### Algebraic Data Types
 
