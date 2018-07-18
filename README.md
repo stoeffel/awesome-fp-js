@@ -117,6 +117,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 * [ion](https://github.com/ion-lang/ion) - no BS JS
 * [RamdaScript](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
+* [RacketScript](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
 
 ## Programming Tools
 
