@@ -91,6 +91,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 * [crocks](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running.
 * [kudo-js](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript
+* [pure](https://github.com/gigobyte/pure) - Functional programming library for TypeScript focusing on ADTs
 
 ### Lenses
 
