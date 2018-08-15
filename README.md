@@ -73,6 +73,7 @@ Write performant functional code by using the right data structures for the task
 * [collectable](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications.
 * [List](https://github.com/funkia/list) - An extremely fast immutable list with a comprehensive functional API.
 * [prelude.ts](https://github.com/emmanueltouzery/prelude.ts) - Immutable persistent collections, functional constructs such as Option and Either, and combinators. Implemented in Typescript but supports javascript too.
+* [TSTL](https://github.com/samchon/tstl) - C++ STL (Standard Template Library) is implemented in TypeScript. STL Containers, iterators, algorithms and functors, that following functional programming rule, are provided.
 
 ### Algebraic Data Types
 
