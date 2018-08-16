@@ -27,6 +27,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [Ramda-extension](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
+* [Rambda](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 * [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 * [101](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
 * [fnuc](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
