@@ -94,6 +94,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [crocks](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running.
 * [kudo-js](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript
 * [pure](https://github.com/gigobyte/pure) - Functional programming library for TypeScript focusing on ADTs
+* [MojiScript](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
 
 ### Lenses
 
