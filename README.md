@@ -64,6 +64,7 @@ Write performant functional code by using the right data structures for the task
 
 * [Icepick](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
 * [Immutable.js](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
+* [Immer](https://github.com/mweststrate/immer) – Immer is a tiny package for immutable state based on copy-on-write mechanism.
 * [Mori](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [Baobab](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
 * [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees](https://github.com/qiao/fingertree.js).
