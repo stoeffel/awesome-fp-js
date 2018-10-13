@@ -105,6 +105,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [fantasy-lenses](https://github.com/fantasyland/fantasy-lenses) – Composable, immutable getters and setters. (Profunctor lenses WIP)
 * [nanoscope](https://github.com/5outh/nanoscope) – Lenses with dotty support.
 * [partial.lenses](https://github.com/calmm-js/partial.lenses) – Partial lenses is a comprehensive, high-performance optics library for JavaScript.
+* [shades](https://github.com/jamesmcnamara/shades) – A lodash-inspired lens-like library for Javascript.
 
 ## Functional Languages that Compile to JavaScript
 
