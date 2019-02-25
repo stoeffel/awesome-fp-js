@@ -98,6 +98,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [kudo-js](https://github.com/blitzritz/kudojs) - A small utility library with a set of Algebraic Data Types and Helper functions to help you write code in a functional programming style in Javascript
 * [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs
 * [MojiScript](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
+* [Pratica](https://github.com/rametta/pratica) - Small, simple, easy FP data types for pragmatic and productive developers who need to ship reliable code fast.
 
 ### Lenses
 
