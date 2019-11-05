@@ -61,6 +61,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [Creed](http://blog.briancavalier.com/creed/) – Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land.
 * [TGrid](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL](https://github.com/samchon/tstl), supporting RFC (Remote Function Call).
 * [Ferrum](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS
+* [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript
 
 ### Data Structures
 
