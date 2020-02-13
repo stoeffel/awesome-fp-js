@@ -180,6 +180,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Basic Monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3) - Introduction to 2 easy monads in Javascript, Maybe & Either.
 * [F# for JavaScript Devs](https://dev.to/rametta/f-for-js-devs-2b88) - Showcasing the similarities between F# and JavaScript
 * [A practical guide to writing more functional Javascript](https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71) - A step by step guide to convert imperative JavaScript to more declarative, functional JavaScript.
+* [You don't (may not) need loops ➿](https://github.com/you-dont-need/You-Dont-Need-Loops)
 
 ### Videos
 
