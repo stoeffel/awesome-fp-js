@@ -62,6 +62,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [TGrid](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL](https://github.com/samchon/tstl), supporting RFC (Remote Function Call).
 * [Ferrum](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS
 * [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript
+* [futil-js](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
 ### Data Structures
 
