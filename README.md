@@ -67,9 +67,10 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [Creed](http://blog.briancavalier.com/creed/) – Sophisticated and functionally-minded async with advanced features: coroutines, promises, ES2015 iterables, fantasy-land. -TS.
 * [TGrid](https://github.com/samchon/tgrid) - Grid Computing Framework, Network & Thread extension of [TSTL](https://github.com/samchon/tstl), supporting RFC (Remote Function Call). +TS.
 * [Ferrum](https://github.com/adobe/ferrum) – Iterator library with support for objects as iterables, lazy evaulation and`pipe()`; implements Traits (from Rust)/Type Classes (from Haskell) in JS. -TS.
-* [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript.  +CT, +TS.
+* [fp-ts](https://gcanti.github.io/fp-ts/) - Typed functional programming in TypeScript. +CT, +TS.
 * [iter-tools](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
 * [remeda](https://remedajs.com/) A function library roughly subsetting Ramda, but written in Typescript and thus more type-friendly. +TS.
+* [futil-js](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 
 ### Data Structures
 
@@ -188,6 +189,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Basic Monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3) - Introduction to 2 easy monads in Javascript, Maybe & Either.
 * [F# for JavaScript Devs](https://dev.to/rametta/f-for-js-devs-2b88) - Showcasing the similarities between F# and JavaScript
 * [A practical guide to writing more functional Javascript](https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71) - A step by step guide to convert imperative JavaScript to more declarative, functional JavaScript.
+* [You don't (may not) need loops ➿](https://github.com/you-dont-need/You-Dont-Need-Loops) - Loops are one of the first constructs that junior programmers learn, but they can pose many potential issues in the software development process, and could be avoided in many cases.
 
 ### Videos
 
