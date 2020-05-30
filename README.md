@@ -71,6 +71,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [iter-tools](https://github.com/iter-tools/iter-tools) - a rich toolset for working with iterables, both sync and async. +TS.
 * [remeda](https://remedajs.com/) A function library roughly subsetting Ramda, but written in Typescript and thus more type-friendly. +TS.
 * [futil-js](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
+* [rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
 
 ### Data Structures
 
