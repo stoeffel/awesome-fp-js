@@ -73,6 +73,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [futil-js](https://github.com/smartprocure/futil-js) - A collection of functional utilities that could conceivably be part of a library like lodash/fp, but for some reason or other are not.
 * [rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
 * [rocket-pipes](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
+* [omg-curry](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 
 ### Data Structures
 
