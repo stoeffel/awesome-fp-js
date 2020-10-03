@@ -32,6 +32,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [Ramda Adjunct](https://github.com/char0n/ramda-adjunct) is a community-maintained extension of Ramda.
 * [Ramda-extension](https://github.com/tommmyy/ramda-extension) is set of utility point-free functions composed only from Ramda functions.
 * [Rambda](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
+* [Rambdax](https://github.com/selfrefactor/rambdax) - Extended version of Rambda
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript. Typescript support expected mid-2020.  -TS.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods. +TS.
 * [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
