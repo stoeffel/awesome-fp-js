@@ -137,8 +137,8 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [GHCJS](https://github.com/ghcjs/ghcjs) – [Haskell](https://www.haskell.org/) to JavaScript compiler, based on GHC.
 * [ElixirScript](https://github.com/bryanjos/elixirscript) – Compiles a subset of [Elixir](http://elixir-lang.org/), a dynamic, functional language designed for building scalable and maintainable applications, to JavaScript.
 * [Js\_of\_ocaml](http://ocsigen.org/js_of_ocaml/) – Compiles [OCaml](http://ocaml.org/) bytecode to JavaScript, making it possible to run OCaml programs in the browser.
-* [BuckleScript](https://bucklescript.github.io/) – JavaScript backend for [the OCaml compiler](https://ocaml.org/).
 * [Reason](https://reasonml.github.io) – Reason is a new interface to OCaml, a highly expressive dialect of the ML language featuring type inference and static type checking.
+* [ReScript](https://rescript-lang.org/) – (previously known as [Bucklescript](https://rescript-lang.org/bucklescript-rebranding)) ReScript is a type-safe language that compiles to the highest quality of clean, readable and performant JavaScript code.
 * [Scala.js](http://www.scala-js.org/) – Compiles [Scala](http://www.scala-lang.org/) to JavaScript.
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
 * [Quack](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
