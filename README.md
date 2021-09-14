@@ -75,6 +75,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [rubico](https://github.com/a-synchronous/rubico) - 🏞 [a]synchronous functional syntax
 * [rocket-pipes](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 * [omg-curry](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
+* [lfi](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
 
 ### Data Structures
 
