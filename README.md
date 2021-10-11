@@ -148,6 +148,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [RacketScript](https://github.com/vishesh/racketscript) – RacketScript aims to leverage both JavaScript and Racket's ecosystem, and make interoperability between them clean and smooth.
 * [Koka](https://www.microsoft.com/en-us/research/project/koka/) – Koka is a function-oriented programming language that seperates pure values from side-effecting computations with a familiar JavaScript like syntax.
 * [TypeScript](https://www.typescriptlang.org/) - TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
+* [Gleam](https://gleam.run) - Gleam is a typed, functional language that compiles to Erlang and JavaScript.
 
 ## Programming Tools
 
