@@ -76,6 +76,8 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [rocket-pipes](https://github.com/darky/rocket-pipes) - Powerful pipes, that chain Promise and ADT like Maybe or Either from popular FP libraries. +TS
 * [omg-curry](https://github.com/Debdut/omg-curry) - Comprehensive Curry Library with Operator Curry, Curry from functions, Decurry and Infifnite Curries.
 * [lfi](https://github.com/TomerAberbach/lfi) - A Lazy Functional Iteration Library Supporting Sync, Async, and Concurrent Iteration.
+* [ts-multimethod](https://github.com/darky/ts-multimethod) - TypeScript multimethods inspired by Clojure multimethods. +TS
+* [ts-fp-di](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
 
 ### Data Structures
 
