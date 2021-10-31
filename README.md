@@ -80,6 +80,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [ts-fp-di](https://github.com/darky/ts-fp-di) - Tiny TypeScript functional dependency injection, based on Node.js AsyncLocalStorage. +TS
 * [effect-ts](https://github.com/Effect-TS/core) – A Fully-fledged functional effect system for typescript with a rich standard library. +TS
 * [qio](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
+* [RxEffects](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 
 ### Data Structures
 
