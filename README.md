@@ -82,6 +82,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [qio](https://github.com/tusharmath/qio) – A type-safe, functional, performant, lawful, composable data structure that solves practical problems of effect-full code in node and browser. +TS
 * [Ditox.js](https://github.com/mnasyrov/ditox) - Powerful dependency injection container for building modular apps. +TS
 * [RxEffects](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
+* [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
 
 ### Data Structures
 
