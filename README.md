@@ -84,6 +84,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [RxEffects](https://github.com/mnasyrov/rx-effects) - Reactive state and effect management with RxJS. +TS
 * [fxts](https://github.com/marpple/FxTS) - Lazy evaluation and concurrency. +TS
 * [ts-belt](https://mobily.github.io/ts-belt/) - Fast, modern, and practical utility library for FP in TypeScript. (Uses a data-first approach like remeda, but is [faster](https://mobily.github.io/ts-belt/benchmarks/v3.7.0/macbook-air-2020) than remeda, ramda, rambda, and lodash/fp.)
+* [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 
 ### Data Structures
 
