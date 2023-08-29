@@ -87,6 +87,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [fp-multik](https://github.com/lulldev/fp-multik) - JS/TS lightweight value-multimethod util
 * [true-myth](https://github.com/true-myth/true-myth) A library for safe, idiomatic null and error handling in TypeScript, with `Maybe` and `Result` types, supporting both a functional style and a more traditional method-call style
 * [ts-pattern](https://github.com/gvergnaud/ts-pattern) - The exhaustive Pattern Matching library for TypeScript, with smart type inference. Pattern Matching is a code-branching technique coming from FP languages.
+* [hyogwa](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 
 ### Data Structures
 
