@@ -90,6 +90,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [hyogwa](https://github.com/ENvironmentSet/hyogwa) - Natural 🌿 effect system that fits TypeScript; Write codes as you write **plain typescript code**.
 * [Verticalize](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 * [PureEval](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
+* [context-fp](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
 
 ### Data Structures
 
