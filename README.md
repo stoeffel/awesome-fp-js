@@ -91,6 +91,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [Verticalize](https://github.com/laurentpayot/verticalize) - Super lightweight function that looks and behaves like a pipe operator.
 * [PureEval](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
 * [context-fp](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
+* [klubok](https://github.com/darky/klubok) - Pipes with easy mocking, intended for huge amount of unit tests. +TS
 
 ### Data Structures
 
