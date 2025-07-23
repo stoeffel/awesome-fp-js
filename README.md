@@ -92,6 +92,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [PureEval](https://github.com/PureEval/PureEval) - A powerful JavaScript functional programming toolset, including utility functions and abstract data structures.
 * [context-fp](https://github.com/darky/context-fp) - Microscopic functional programming context aka dependency injection. +TS
 * [klubok](https://github.com/darky/klubok) - Pipes with easy mocking, intended for huge amount of unit tests. +TS
+* [fp-filters](https://github.com/Oaxoa/fp-filters) - A curated collection of 130+ common-use filter functions. Written in a functional programming style. 100% Unit tested. +TS
 
 ### Data Structures
 
