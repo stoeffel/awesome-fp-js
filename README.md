@@ -96,6 +96,7 @@ These may be appended to entries.  Each should be preceded by a "+" or "-" to in
 * [fp-filters](https://github.com/Oaxoa/fp-filters) - A curated collection of 130+ common-use filter functions. 
   Written in a functional programming style. Lightweight direct imports. Supports ES modules and CommonJS. 100% Unit 
   tested. +TS
+* [tinyeffect](https://github.com/Snowflyt/tinyeffect) - A tiny TypeScript library for handling side effects in a unified way using algebraic effects. +TS
 
 ### Data Structures
 
